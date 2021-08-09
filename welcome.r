@@ -1,5 +1,4 @@
-txt1 = "welcome"
-txt2 = "welcome to R courrse"
+txt = "welcome to R sourse"
 
-txt1
-txt2
+txt
+
